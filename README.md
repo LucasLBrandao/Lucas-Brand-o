@@ -1,7 +1,3 @@
-# Lucas Brandão
-Graduando em Administração pública, aspirante a analista de dados
-
-*Em construção*
 
 ## Projeto 1: Painel de visualização de dados dos Arranjos Produtivos locais de Minas Gerais
 - 17/03/2021
